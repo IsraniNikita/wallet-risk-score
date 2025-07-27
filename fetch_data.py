@@ -1,6 +1,6 @@
 import requests
 
-ETHERSCAN_API_KEY = "46STB4CYFV5EF2ZCP9X925XUJCECSI1YJ9"
+ETHERSCAN_API_KEY = "YOUR_API_KEY_HERE"
 ETHERSCAN_URL = "https://api.etherscan.io/api"
 
 # Full list of Compound V2 contract addresses
